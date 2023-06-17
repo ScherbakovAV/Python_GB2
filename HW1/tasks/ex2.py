@@ -2,6 +2,11 @@
 Выведите в консоль таблицу умножения от 2х2 до 9х10 как на школьной тетрадке."""
 
 
+FIRST_TABLE_START = 2
+SECOND_TABLE_START = 6
+START_NUM = 2
+
+
 def is_digit(num):
     if 1 <= num <= 9:
         return True
@@ -31,10 +36,8 @@ def draw_table(row, col, start):
 
 def mult_table():
     print('\n', ' ' * 20, 'ТАБЛИЦА УМНОЖЕНИЯ\n')
-    start_col1 = 2
-    start_col2 = 6
-    start = 2
+
     rows = 10
 
-    draw_table(rows, start_col1, start)
-    draw_table(rows, start_col2, start)
+    draw_table(rows, FIRST_TABLE_START, START_NUM)
+    draw_table(rows, SECOND_TABLE_START, START_NUM)

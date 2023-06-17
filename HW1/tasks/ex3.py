@@ -4,7 +4,7 @@
 с такими сторонами не существует. Отдельно сообщить является ли треугольник разносторонним,
 равнобедренным или равносторонним."""
 
-from input import num_input_check as num_input
+from modules.input import num_input_check as num_input
 
 
 def triangle_check(side_a, side_b, side_c):
@@ -25,8 +25,8 @@ def triangle_check(side_a, side_b, side_c):
 
 
 def enter_triangle():
-    a = num_input('Введите сторону a', 2)
-    b = num_input('Введите сторону b', 2)
-    c = num_input('Введите сторону c', 2)
+    a = num_input('Введите сторону a', 'float')
+    b = num_input('Введите сторону b', 'float')
+    c = num_input('Введите сторону c', 'float')
 
     triangle_check(a, b, c)

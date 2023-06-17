@@ -1,7 +1,4 @@
-import ex1
-import ex2
-import ex3
-import ex4
+from tasks import ex1, ex2, ex3, ex4, ex5
 
 
 def selection():
@@ -41,7 +38,7 @@ def selection():
 
             case '5':
                 print('Ваша задача в этой программе - угадать число с 10 попыток\n')
-
+                ex5.guessing_game(ex5.random_int_number())
                 menu_return()
                 continue
 

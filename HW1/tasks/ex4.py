@@ -2,7 +2,7 @@
 Используйте правило для проверки: «Число является простым, если делится нацело только на единицу
 и на себя». Сделайте ограничение на ввод отрицательных чисел и чисел больше 100 тысяч. """
 
-from input import num_input_check as inp
+from modules.input import num_input_check as inp
 
 
 def is_simple(num):

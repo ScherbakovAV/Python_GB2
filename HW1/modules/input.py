@@ -1,17 +1,17 @@
-def num_input_check(message, param=1):
+def num_input_check(message, param='integer'):
     while True:
         try:
             mess = input(f'{message}: ')
 
-            if param == 1:
+            if param == 'integer':
                 return int(mess)
-
-            return float(mess)
+            elif param == 'float':
+                return float(mess)
 
         except ValueError:
-            if param == 1:
+            if param == 'integer':
                 message = 'Ошибка ввода, введите целое число...'
-            else:
+            elif param == 'float':
                 message = 'Ошибка ввода, введите число...'
             continue
 
