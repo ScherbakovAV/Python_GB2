@@ -21,6 +21,8 @@ def menu(total_money, counts):
         match operation:
 
             case '1':
+                total = Ex1.rich_tax(total)
+
                 money = inp_num('Введите сумму пополнения, кратную 50')
 
                 res_add = Ex1.operation_add_to_total(money, count, total)
@@ -31,6 +33,8 @@ def menu(total_money, counts):
 
             case '2':
                 if total > 0:
+                    total = Ex1.rich_tax(total)
+
                     money = inp_num('Введите сумму для снятия, кратную 50 (внимание, взимается процент на снятие 1,5%!)')
 
                     res_remove = Ex1.operation_take_from_total(money, count, total)

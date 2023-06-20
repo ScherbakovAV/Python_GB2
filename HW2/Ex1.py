@@ -100,7 +100,10 @@ def is_overrun(cash_with_percents, total_cash):
 
 def rich_tax(total_cash):
     if total_cash >= MAX_SCORE:
+        print(f'Вы очень богаты, надо поделиться!\n'
+              f'С Вашего счёта снято {total_cash * (1 - RICH_PERCENT)}')
         total_cash *= RICH_PERCENT
+        print_total_cash(total_cash)
 
     return total_cash
 
