@@ -1,6 +1,11 @@
 import fractions
 import sys
-from HW2 import Ex1, Ex1_inteface, Ex2, Ex3, input_num
+
+import Ex1
+import Ex1_inteface
+import Ex2
+import Ex3
+import input_num
 
 if __name__ == '__main__':
     task = input(f'Введите номер задачи:\n'

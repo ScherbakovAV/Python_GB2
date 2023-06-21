@@ -4,8 +4,6 @@
 Функцию hex используйте для проверки своего результата.
 """
 
-import input_num
-
 SYSTEM = 16
 
 
@@ -18,17 +16,17 @@ def dec_to_hex(number: int):
 
         if 0 <= mod <= 9:
             new_num = str(mod) + new_num
-        if mod == 10:
+        elif mod == 10:
             new_num = 'a' + new_num
-        if mod == 11:
+        elif mod == 11:
             new_num = 'b' + new_num
-        if mod == 12:
+        elif mod == 12:
             new_num = 'c' + new_num
-        if mod == 13:
+        elif mod == 13:
             new_num = 'd' + new_num
-        if mod == 14:
+        elif mod == 14:
             new_num = 'e' + new_num
-        if mod == 15:
+        elif mod == 15:
             new_num = 'f' + new_num
 
         tmp_num //= SYSTEM
