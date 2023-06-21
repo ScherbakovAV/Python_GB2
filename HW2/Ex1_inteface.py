@@ -1,5 +1,5 @@
 import Ex1
-from Ex1_input import positive_num_input as inp_num
+from input import positive_num_input as inp_num
 
 
 def menu(total_money, counts):
