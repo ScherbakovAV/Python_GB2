@@ -26,8 +26,8 @@ def menu(total_money, counts):
                 money = inp_num('Введите сумму пополнения, кратную 50')
 
                 res_add = Ex1.operation_add_to_total(money, count, total)
-                total = res_add[0]
                 count = res_add[1]
+                total = Ex1.bonus_cash(res_add[0], count)
 
                 continue
 
@@ -35,11 +35,12 @@ def menu(total_money, counts):
                 if total > 0:
                     total = Ex1.rich_tax(total)
 
-                    money = inp_num('Введите сумму для снятия, кратную 50 (внимание, взимается процент на снятие 1,5%!)')
+                    money = inp_num('Внимание! Дополнительно взимается сбор 1.5% от суммы снятия, '
+                                    'но не менее 30 и не более 600.\nВведите сумму для снятия, кратную 50')
 
                     res_remove = Ex1.operation_take_from_total(money, count, total)
-                    total = res_remove[0]
                     count = res_remove[1]
+                    total = Ex1.bonus_cash(res_remove[0], count)
 
                 else:
                     print('Снятие наличных недоступно, недостаточно средств!\n')
