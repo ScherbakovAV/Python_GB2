@@ -1,5 +1,5 @@
 import Ex1
-from input import positive_num_input as inp_num
+from input_num import positive_num_input as inp_num
 
 
 def menu(total_money, counts):
@@ -49,6 +49,3 @@ def menu(total_money, counts):
 
             case _:
                 break
-
-
-menu(Ex1.total_score, Ex1.count)

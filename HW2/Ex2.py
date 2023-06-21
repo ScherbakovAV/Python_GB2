@@ -4,7 +4,7 @@
 Функцию hex используйте для проверки своего результата.
 """
 
-import input
+import input_num
 
 SYSTEM = 16
 
@@ -46,9 +46,3 @@ def check_hex(number_hex: str, number: int):
         check_result = 'результат ошибочен'
 
     return check_result
-
-
-num = input.positive_num_input('Введите число для перевода из двоичной системы счисления в шестнадцатеричную', 2)
-num_hex = dec_to_hex(num)
-print(f'Это число в шестнадцатеричном представлении - {num_hex}')
-print(f'Проверка встроенной функцией hex: {check_hex(num_hex, num)}')
