@@ -4,15 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added readme">
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Critical changes in HW2">
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_bytes_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_bytes_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_dict_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_list_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_set_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/task_str_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/Ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +76,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RWnxSSiZYvFsfR8M1txz6vYwT0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,13 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687385914721</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Critical changes in HW2">
+      <created>1687388133385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687388133385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project reassembly" />
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
+    <MESSAGE value="Critical changes in HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Critical changes in HW2" />
   </component>
 </project>
