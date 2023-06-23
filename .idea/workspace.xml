@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Lesson3 code">
-      <change afterPath="$PROJECT_DIR$/HW3/hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/ex6.py" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar3 code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/hw2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/hw3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687471582609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Seminar3 code">
+      <created>1687535337660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687535337660</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +133,7 @@
     <MESSAGE value="Added readme" />
     <MESSAGE value="Critical changes in HW2" />
     <MESSAGE value="Added Lesson3 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson3 code" />
+    <MESSAGE value="Added Seminar3 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar3 code" />
   </component>
 </project>
