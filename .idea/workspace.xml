@@ -4,10 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW3 part of code">
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW3">
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_builtins_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task_def_25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/hw5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/Task 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +77,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Geek Brains/Git/Python_education2/HW3",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Geek Brains\Git\Python_education2\HW3" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_education2" />
@@ -129,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687554109574</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added HW3">
+      <created>1687628371725</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687628371725</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +190,7 @@
     <MESSAGE value="Added Lesson3 code" />
     <MESSAGE value="Added Seminar3 code" />
     <MESSAGE value="Added HW3 part of code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW3 part of code" />
+    <MESSAGE value="Added HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW3" />
   </component>
 </project>
