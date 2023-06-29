@@ -2,12 +2,21 @@
 на отдельные операции — функции. Дополнительно сохраняйте
 все операции поступления и снятия средств в список."""
 
+MULT = 50
+PERCENT = 0.985
+EXTRA_PERCENT = 1.03
+RICH_PERCENT = 0.9
+MIN_CASH = 30
+MAX_CASH = 600
+BONUS_COUNT = 3
+MAX_SCORE = 5_000_000
+
 
 def bonus_cash(total_cash: float | int, count_num: int) -> float:
     if count_num % BONUS_COUNT == 0:
         tmp_cash = total_cash
         total_cash *= EXTRA_PERCENT
-        operations_add_to_list(f'+ {round(total_cash - tmp_cash, 2)} (3 % за каждую третью операцию)')
+        operations_add_to_list(f'+ {total_cash - tmp_cash:.2f} (3 % за каждую третью операцию)')
         print(f'За каждую третью операцию начисляется 3%. '
               f'Вам дополнительно начислено {total_cash - tmp_cash} на остаток по счёту.')
 
@@ -61,12 +70,12 @@ def operation_take_from_total(money: float | int, count_num: int, total: float |
     elif is_overrun(money, total):
         print(f'Превышен лимит. Вы можете снять сумму не более {total}!')
 
-        return None
+        return
 
     else:
         print('Сумма должна быть кратна 50!')
 
-        return None
+        return
 
 
 def is_multiplicity(cash: float | int) -> bool:
@@ -74,17 +83,17 @@ def is_multiplicity(cash: float | int) -> bool:
 
 
 def is_overrun(cash_with_percents: float | int, total_cash: float | int) -> bool:
-    return True if cash_with_percents > total_cash else False
+    return cash_with_percents > total_cash
 
 
 def rich_tax(total_cash: float | int) -> float | int:
     rich_remove = (total_cash - MAX_SCORE) * (1 - RICH_PERCENT)
 
     if total_cash > MAX_SCORE:
-        operations_add_to_list(f'- {round(rich_remove, 2)} (налог на богатство 10% на сумму выше 5 млн.)')
+        operations_add_to_list(f'- {rich_remove:.2f} (налог на богатство 10% на сумму выше 5 млн.)')
         print(f'Вы очень богаты, надо поделиться!\n'
               f'С суммы свыше 5 000 000 Вашего счёта снято 10% '
-              f'({round(rich_remove, 2)})')
+              f'({rich_remove:.2f})')
         total_cash -= (total_cash - MAX_SCORE) * (1 - RICH_PERCENT)
         print_total_cash(total_cash)
 
@@ -92,7 +101,7 @@ def rich_tax(total_cash: float | int) -> float | int:
 
 
 def print_total_cash(total_cash: float | int) -> None:
-    print(f'На Вашем счету {round(total_cash, 2)}...\n')
+    print(f'На Вашем счёте {total_cash:.2f}...\n')
 
 
 def operations_add_to_list(data: str) -> None:
@@ -101,16 +110,16 @@ def operations_add_to_list(data: str) -> None:
 
 
 def operations_print() -> None:
-    global operations_list
     print('Начальный остаток на счёте: 0.00')
+    global operations_list
 
     for items in operations_list:
         print(items)
 
 
-def menu(total_money: float | int, counts: int) -> None:
-    total = total_money
-    count = counts
+def menu() -> None:
+    total = 0
+    count = 0
 
     print('________Банкомат________')
 
@@ -138,8 +147,6 @@ def menu(total_money: float | int, counts: int) -> None:
                     count = res_add[1]
                     total = bonus_cash(res_add[0], count)
 
-                continue
-
             case '2':
                 if total > 0:
                     total = rich_tax(total)
@@ -149,35 +156,20 @@ def menu(total_money: float | int, counts: int) -> None:
 
                     res_remove = operation_take_from_total(money, count, total)
 
-                    if res_remove is not None:
+                    if res_remove:
                         count = res_remove[1]
                         total = bonus_cash(res_remove[0], count)
 
                 else:
                     print('Снятие наличных недоступно, недостаточно средств!\n')
 
-                continue
-
             case '3':
                 operations_print()
-
-                continue
 
             case _:
                 break
 
 
 if __name__ == '__main__':
-    MULT = 50
-    PERCENT = 0.985
-    EXTRA_PERCENT = 1.03
-    RICH_PERCENT = 0.9
-    MIN_CASH = 30
-    MAX_CASH = 600
-    BONUS_COUNT = 3
-    MAX_SCORE = 5_000_000
-    counter = 0
-    total_score = 0
     operations_list = []
-
-    menu(total_score, counter)
+    menu()
