@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Lesson5">
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/ex7.py" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar5">
+      <change afterPath="$PROJECT_DIR$/HW5/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/hw3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,27 +72,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar4/Ex7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_education2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +85,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw2" />
+        <item itemvalue="Python.Ex4" />
         <item itemvalue="Python.hw4" />
         <item itemvalue="Python.hw3" />
-        <item itemvalue="Python.Ex4" />
         <item itemvalue="Python.hw1" />
-        <item itemvalue="Python.Ex7" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688057848209</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added Seminar5">
+      <created>1688065397195</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688065397195</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +308,7 @@
     <MESSAGE value="Added ex1 and ex2 from HW4" />
     <MESSAGE value="Added HW4 some changes" />
     <MESSAGE value="Added Lesson5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson5" />
+    <MESSAGE value="Added Seminar5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar5" />
   </component>
 </project>
