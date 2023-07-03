@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW5">
-      <change afterPath="$PROJECT_DIR$/Lesson6/mathematical/__int__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/mathematical/advanced_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/mathematical/base_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/random_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/super_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_builtins_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_builtins_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_builtins_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_builtins_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_builtins_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_import_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_module_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_module_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/task_module_03.py" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Lesson6">
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/file1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/file2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,15 +42,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Geek Brains/Git/Python_education2/HW3",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Geek Brains/Git/Python_education2/HW3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Geek Brains\Git\Python_education2\HW3" />
@@ -68,6 +58,122 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Geek Brains\Git\Python_education2\Lesson6\mathematical" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar6/ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar6/ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar6/ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar6/ex6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar6/ex7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex7" />
+        <item itemvalue="Python.ex6" />
+        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -190,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688161191185</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added Lesson6">
+      <created>1688238943254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688238943254</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +333,7 @@
     <MESSAGE value="Added Lesson5" />
     <MESSAGE value="Added Seminar5" />
     <MESSAGE value="Added HW5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW5" />
+    <MESSAGE value="Added Lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson6" />
   </component>
 </project>
