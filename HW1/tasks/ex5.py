@@ -2,7 +2,7 @@
 должна подсказывать «больше» или «меньше» после каждой попытки. """
 
 from random import randint
-from modules.input import num_input_check as inp
+from HW1.modules.input import num_input_check as inp
 
 
 LOWER_LIMIT = 0

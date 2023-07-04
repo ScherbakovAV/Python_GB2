@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Lesson6">
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/file1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/file2.py" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar6">
+      <change afterPath="$PROJECT_DIR$/HW6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/tasks/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/tasks/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/tasks/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/tasks/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/tasks/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/tasks/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/tasks/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/tasks/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex3" />
         <item itemvalue="Python.ex7" />
         <item itemvalue="Python.ex6" />
         <item itemvalue="Python.ex5" />
         <item itemvalue="Python.ex4" />
-        <item itemvalue="Python.ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688238943254</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added Seminar6">
+      <created>1688411432315</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688411432315</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +340,7 @@
     <MESSAGE value="Added Seminar5" />
     <MESSAGE value="Added HW5" />
     <MESSAGE value="Added Lesson6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson6" />
+    <MESSAGE value="Added Seminar6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar6" />
   </component>
 </project>

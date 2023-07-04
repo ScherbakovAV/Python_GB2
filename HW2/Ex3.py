@@ -3,6 +3,7 @@
 Программа должна возвращать сумму и произведение* дробей. Для проверки своего кода используйте модуль fractions.
 """
 
+
 def add_fraction(fraction_number):
     return input(f'Введите дробь №{fraction_number} в виде “a/b”:  ')
 

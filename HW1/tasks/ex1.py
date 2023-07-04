@@ -1,8 +1,8 @@
 """ Задание №1 (№8 семинара)
 Нарисовать в консоли ёлку спросив у пользователя количество рядов."""
 
-from modules.input import num_input_check as num_input
-from modules.input import is_natural_num as is_natural
+from HW1.modules.input import num_input_check as num_input
+from HW1.modules.input import is_natural_num as is_natural
 
 
 MIN_ROWS = 1
