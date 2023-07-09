@@ -4,18 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar6">
-      <change afterPath="$PROJECT_DIR$/HW7/ex1 (ex5 sem).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex1_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex2_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex3_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar7/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_education2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_education2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar7">
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/0.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/4m26w4dwcatlk3h.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/526twer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/9z6j5qzj.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/a1e7e664zxa0b6gw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/ay370rbrb20989oi6i3xar3_57a.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/dinkf2ceot_61inj8uiiu87y2dy.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/e5oh4gkancd9a5q5x_q.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/k2df24sqyp7rvmnpa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/l7yn19ltjzjkbpyvjj86cmp4lb3w0.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/lsfa9jd34e0bxbkmry59b2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/oy6szqb9evbbgvkk5_xirj0.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/p3knwq6_lidh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/r7hkcqpi6ajf.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/rxgfozv2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/sflnwb0f4y_9hr42ci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/u1ksfunj2ca83tcdk.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/ubsjne9uudj3h0m017.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/bin_dir/test/wk4kg7dhjvs17roe4zphg3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Dogs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Sea_sounds.wma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/brains.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/dzzzz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/for_print.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/wow.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Закат.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Квартальный отчёт.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Кино - Пачка сигарет.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted/Котики.wmv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Dogs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Sea_sounds.wma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/brains.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/dzzzz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/for_print.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/wow.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Закат.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Квартальный отчёт.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Кино - Пачка сигарет.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/sorted_tmp/Котики.wmv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar7/7w_za3e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar7/sikhhhatf6l1f0mvzlxsh.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/ex1 (ex5 sem).py" beforeDir="false" afterPath="$PROJECT_DIR$/HW7/ex1, ex2 (ex5, ex6 sem).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/ex2 (ex6 sem).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/ex3 (ex7 sem).py" beforeDir="false" afterPath="$PROJECT_DIR$/HW7/ex3 (ex7 sem).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar7/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +85,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Geek Brains/Git/Python_education2/HW3&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/GIT repo/HW7",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
       <recent name="E:\Geek Brains\Git\Python_education2\HW3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
       <recent name="E:\Geek Brains\Git\Python_education2\Lesson6\mathematical" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex4">
+  <component name="RunManager" selected="Python.ex3 (ex7 sem)">
+    <configuration name="ex1, ex2 (ex5, ex6 sem) (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/ex1, ex2 (ex5, ex6 sem).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1, ex2 (ex5, ex6 sem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\GIT repo\HW7\ex1, ex2 (ex5, ex6 sem).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3 (ex7 sem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/ex3 (ex7 sem).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_education2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +214,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex3 (ex7 sem)" />
         <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex1, ex2 (ex5, ex6 sem) (1)" />
+        <item itemvalue="Python.ex1, ex2 (ex5, ex6 sem)" />
         <item itemvalue="Python.ex3" />
       </list>
     </recent_temporary>
@@ -247,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688411432315</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added Seminar7">
+      <option name="closed" value="true" />
+      <created>1688935647710</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688935647710</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +398,7 @@
     <MESSAGE value="Added HW5" />
     <MESSAGE value="Added Lesson6" />
     <MESSAGE value="Added Seminar6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar6" />
+    <MESSAGE value="Added Seminar7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar7" />
   </component>
 </project>

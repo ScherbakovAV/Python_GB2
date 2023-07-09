@@ -11,17 +11,24 @@
 
 from random import choices, randint
 from string import ascii_lowercase, digits
+from os import getcwd, listdir
 
 
-def gen_ext(ext: str, name_len_min: int = 6, name_len_max: int = 30, bytes_min: int = 256, bytes_max: int = 4096,
-            num_files: int = 42) -> None:
+def gen_ext(ext: str, directory: str, name_len_min: int = 6, name_len_max: int = 30, bytes_min: int = 256,
+            bytes_max: int = 4096, num_files: int = 42) -> None:
+
     for i in range(num_files):
         name = ''.join(choices(ascii_lowercase + digits + '_', k=randint(name_len_min, name_len_max)))
         data = bytes(randint(0, 255) for _ in range(randint(bytes_min, bytes_max)))
+        file_name = f'{name}.{ext}'
 
-        with open(f'{name}.{ext}', 'wb') as f:
-            f.write(data)
+        if file_name not in listdir(directory):
+            with open(f'{directory}\\{file_name}', 'wb') as f:
+                f.write(data)
+            print(f'Файл {file_name} успешно создан в директории {directory}')
+        else:
+            print(f'Файл {file_name} существует, новый файл не записан!')
 
 
 if __name__ == '__main__':
-    gen_ext('bin', num_files=2)
+    gen_ext('bin', getcwd(), num_files=2)
