@@ -13,6 +13,8 @@ from random import choices, randint
 from string import ascii_lowercase, digits
 from os import getcwd, listdir
 
+__all__ = ['gen_ext']
+
 
 def gen_ext(ext: str, directory: str, name_len_min: int = 6, name_len_max: int = 30, bytes_min: int = 256,
             bytes_max: int = 4096, num_files: int = 42) -> None:

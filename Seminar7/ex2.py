@@ -8,6 +8,8 @@
 
 from random import randint, choice
 
+__all__ = ['pseudo_names_in_file']
+
 LETTERS_VOWS = 'aeioquy'
 LETTERS_CONS = 'bcdfghjklmnprstxz'
 NAME_LENGTH_MIN = 4

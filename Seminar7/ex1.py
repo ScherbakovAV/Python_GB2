@@ -8,6 +8,8 @@
 
 from random import randint, uniform
 
+__all__ = ['rand_numbers_in_file']
+
 MIN_NUM = -1000
 MAX_NUM = 1000
 

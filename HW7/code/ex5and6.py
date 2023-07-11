@@ -16,13 +16,11 @@
 from os import getcwd, makedirs
 from Seminar7.ex4 import gen_ext
 
+__all__ = ['gen_files']
+
 
 def gen_files(folder: str = f'{getcwd()}\\bin_dir\\', **kwargs) -> None:
     makedirs(folder, exist_ok=True)
 
     for extension, files_num in kwargs.items():
         gen_ext(extension, num_files=files_num, directory=folder)
-
-
-if __name__ == '__main__':
-    gen_files(folder=f'{getcwd()}\\bin_dir\\test\\', bin=2, txt=3, doc=1)

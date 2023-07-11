@@ -12,6 +12,8 @@
 ✔ При достижении конца более короткого файла,
 возвращайтесь в его начало."""
 
+__all__ = ['convert']
+
 
 def convert(names_file: str, nums_name: str, result_file: str) -> None:
     with(open(names_file, encoding='utf-8') as f_names,
@@ -35,7 +37,7 @@ def convert(names_file: str, nums_name: str, result_file: str) -> None:
             f_res.write(res + '\n')
 
         str_n = min(len(data_nums), len(data_names))
-        len_dif = max(len(data_nums), len(data_names)) - min(len(data_nums), len(data_names))
+        len_dif = abs(len(data_nums) - len(data_names))
         is_long_names = len(data_names) > len(data_nums)
 
         if is_long_names:
