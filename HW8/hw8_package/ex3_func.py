@@ -1,5 +1,3 @@
-"""Напишите функцию, которая сохраняет созданный в
-прошлом задании файл в формате CSV."""
 import csv
 import json
 
@@ -16,7 +14,3 @@ def json_to_scv(file_name: str) -> None:
         csv_writer = csv.DictWriter(csv_file, dialect='excel', fieldnames=('level', 'id', 'name'), lineterminator='\n')
         csv_writer.writeheader()
         csv_writer.writerows(users_data)
-
-
-if __name__ == '__main__':
-    json_to_scv('ex2_file.json')

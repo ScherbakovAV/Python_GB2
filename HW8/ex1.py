@@ -2,17 +2,7 @@
 Напишите функцию, которая создаёт из созданного ранее файла новый с данными в формате JSON.
 Имена пишите с большой буквы. Каждую пару сохраняйте с новой строки.
 """
-import json
-
-
-def text_to_json(file_name: str) -> None:
-    with(open(file_name, encoding='utf-8') as source,
-         open(f'ex1.json', 'w') as json_file
-         ):
-        file_dict = {line.split(' ')[0].capitalize(): float(line.split(' ')[1][:-1])
-                     for line in source.readlines()}
-        json.dump(file_dict, json_file, ensure_ascii=False, indent=2)
-
+from HW8.hw8_package.ex1_func import text_to_json
 
 if __name__ == '__main__':
-    text_to_json('ex3_sem7_file.txt')
+    text_to_json('ex1_source.txt')

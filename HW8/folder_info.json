@@ -1,0 +1,62 @@
+[
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\",
+    "name": "lections_presentations",
+    "type": "folder",
+    "size": 2792672
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\",
+    "name": "seminar8_files",
+    "type": "folder",
+    "size": 1659
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\",
+    "name": "Семинар 8. Сериализация.pdf",
+    "type": "file",
+    "size": 2633890
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\lections_presentations",
+    "name": "readme",
+    "type": "folder",
+    "size": 14
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\lections_presentations",
+    "name": "Лекция 8. Сериализация (методичка).pdf",
+    "type": "file",
+    "size": 437252
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\lections_presentations",
+    "name": "Лекция 8. Сериализация (презентация).pdf",
+    "type": "file",
+    "size": 2355406
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\lections_presentations\\readme",
+    "name": "README.md",
+    "type": "file",
+    "size": 14
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\seminar8_files",
+    "name": "ex4.json",
+    "type": "file",
+    "size": 646
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\seminar8_files",
+    "name": "ex5.pickle",
+    "type": "file",
+    "size": 535
+  },
+  {
+    "dir": "C:\\Users\\admin\\Desktop\\GIT repo\\HW8\\testdir\\seminar8_files",
+    "name": "ex6.csv",
+    "type": "file",
+    "size": 478
+  }
+]

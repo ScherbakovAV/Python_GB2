@@ -5,4 +5,9 @@
 ○ Для каждого объекта укажите файл это или директория.
 ○ Для файлов сохраните его размер в байтах, а для директорий размер
 файлов в ней с учётом всех вложенных файлов и директорий."""
+from os import getcwd
 
+from HW8.hw8_package.hw1_func import folders_info
+
+if __name__ == '__main__':
+    folders_info(f'{getcwd()}\\testdir\\')
