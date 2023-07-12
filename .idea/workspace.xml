@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added part of HW7">
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW7">
+      <change afterPath="$PROJECT_DIR$/HW8/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex2_file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/ex3_sem7_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/json_ex3_sem7_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW7/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Dogs.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Sea_sounds.wma" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/brains.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/dzzzz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/for_print.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/wow.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Закат.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Квартальный отчёт.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Кино - Пачка сигарет.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/sorted_tmp/Котики.wmv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +53,25 @@
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/GIT repo/HW7&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/GIT repo/Seminar8&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GIT repo\Seminar8" />
+      <recent name="C:\Users\admin\Desktop\GIT repo\HW7\code" />
       <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
       <recent name="E:\Geek Brains\Git\Python_education2\HW3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GIT repo\HW7\Code" />
       <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
       <recent name="E:\Geek Brains\Git\Python_education2\Lesson6\mathematical" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ex1, ex2 (ex5, ex6 sem) (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex1-2">
+    <configuration name="ex1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_education2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,70 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/ex1, ex2 (ex5, ex6 sem).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex1, ex2 (ex5, ex6 sem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\GIT repo\HW7\ex1, ex2 (ex5, ex6 sem).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex3 (ex7 sem)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/ex3 (ex7 sem).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar7/ex3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\GIT repo\HW7\ex1-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +113,96 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex7 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/code/ex7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\GIT repo\HW7\Code\ex7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\GIT repo\HW7\Code\hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex3 (ex7 sem)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.ex7 (1)" />
+        <item itemvalue="Python.hw1" />
         <item itemvalue="Python.ex4" />
-        <item itemvalue="Python.ex1, ex2 (ex5, ex6 sem) (1)" />
-        <item itemvalue="Python.ex1, ex2 (ex5, ex6 sem)" />
-        <item itemvalue="Python.ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688945213997</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added HW7">
+      <option name="closed" value="true" />
+      <created>1689109537849</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689109537849</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,6 +400,7 @@
     <MESSAGE value="Added Seminar6" />
     <MESSAGE value="Added Seminar7" />
     <MESSAGE value="Added part of HW7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added part of HW7" />
+    <MESSAGE value="Added HW7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW7" />
   </component>
 </project>
