@@ -4,41 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Seminar8">
-      <change afterPath="$PROJECT_DIR$/HW8/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/ex1_source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/ex2_file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex1_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex2_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex3_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex4_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex5_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex6_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/ex7_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8_package/hw1_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/lections_presentations/readme/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/lections_presentations/Лекция 8. Сериализация (методичка).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/lections_presentations/Лекция 8. Сериализация (презентация).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/seminar8_files/ex4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/seminar8_files/ex5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/seminar8_files/ex6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/testdir/Семинар 8. Сериализация.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/ex1.json" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW8">
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/get_sum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/guessing_numbers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW8/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW8/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/ex5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW8/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/ex6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW8/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/ex7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW8/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/hw1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/ex2_file.json" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8/ex2_file.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/ex3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8/ex3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/json_ex3_sem7_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/ex1.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,17 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/GIT repo/HW8",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/GIT repo/HW8&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\GIT repo\HW8" />
@@ -91,7 +67,49 @@
       <recent name="E:\Geek Brains\Git\Python_education2\Lesson6\mathematical" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw1">
+  <component name="RunManager">
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar9/ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_education2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar9/ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_education2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar9/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,53 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/ex5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/ex6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_education2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/ex7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar9/ex5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw1" />
-        <item itemvalue="Python.ex7" />
-        <item itemvalue="Python.ex6" />
         <item itemvalue="Python.ex5" />
         <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex3" />
+        <item itemvalue="Python.ex2" />
+        <item itemvalue="Python.hw1" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689159413757</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added HW8">
+      <option name="closed" value="true" />
+      <created>1689192557263</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1689192557263</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +395,7 @@
     <MESSAGE value="Added part of HW7" />
     <MESSAGE value="Added HW7" />
     <MESSAGE value="Added Seminar8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar8" />
+    <MESSAGE value="Added HW8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW8" />
   </component>
 </project>
