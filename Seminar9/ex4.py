@@ -1,11 +1,13 @@
 """Создайте декоратор с параметром.
 Параметр - целое число, количество запусков декорируемой функции."""
+
 from typing import Callable
 
 
 def counter(num: int = 1):
     def deco(func: Callable):
         results = []
+
         def wrapper(*args, **kwargs):
             for count in range(num):
                 results.append(func(*args, **kwargs))
@@ -22,4 +24,4 @@ def get_sum(number1: int, number2: int, *args, **kwargs) -> int:
 
 
 if __name__ == '__main__':
-    print(get_sum(10, 12))
+    print(get_sum(10, 4))

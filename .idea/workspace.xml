@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW8">
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/get_sum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/guessing_numbers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added Sem9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +52,7 @@
       <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GIT repo\HW9\Scripts" />
       <recent name="C:\Users\admin\Desktop\GIT repo\HW7\Code" />
       <recent name="C:\Users\admin\Desktop\GIT repo\HW7" />
       <recent name="E:\Geek Brains\Git\Python_education2\Lesson6\mathematical" />
@@ -358,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689192557263</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added Sem9">
+      <option name="closed" value="true" />
+      <created>1689377490065</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1689377490065</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,6 +395,7 @@
     <MESSAGE value="Added HW7" />
     <MESSAGE value="Added Seminar8" />
     <MESSAGE value="Added HW8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW8" />
+    <MESSAGE value="Added Sem9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Sem9" />
   </component>
 </project>

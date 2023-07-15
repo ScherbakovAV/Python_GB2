@@ -2,6 +2,7 @@
 Превратите внешнюю функцию в декоратор. Он должен проверять, входят ли переданные в функцию
 угадайку числа в диапазоны [1, 100] и [1, 10].
 Если не входят, вызывать функцию со случайными числами из диапазонов."""
+
 from random import randint
 from typing import Callable
 
@@ -12,9 +13,11 @@ def checking_params(func: Callable):
     def wrapper(number: int, count: int, *args, **kwargs):
         if number > max_num or number < min_num:
             number = randint(min_num, max_num)
+            print(f'Число не входит в диапазон, загадано случайное число')
 
         if count > max_count or number < min_count:
             number = randint(min_count, max_count)
+            print(f'Количество попыток не входит в диапазон, выставлено случайное количество попыток')
 
         res = func(number, count, *args, *kwargs)
         return res
@@ -40,5 +43,5 @@ def guessing_numbers(number: int, counts: int) -> Callable[[], None]:
 
 
 if __name__ == '__main__':
-    result = guessing_numbers(125, 5)
+    result = guessing_numbers(125, 80)
     result()

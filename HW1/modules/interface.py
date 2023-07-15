@@ -1,4 +1,4 @@
-from tasks import ex1, ex2, ex3, ex4, ex5
+from HW1.tasks import ex1, ex2, ex3, ex4, ex5
 
 
 def selection():
