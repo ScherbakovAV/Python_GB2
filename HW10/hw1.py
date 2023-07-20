@@ -3,9 +3,9 @@
 ○ Внутри класса создайте экземпляр на основе переданного типа и верните его из класса-фабрики.
 '''
 
-from ex6 import Bird
-from ex6 import Fish
-from ex6 import Mammal
+from hw10ex6 import Bird
+from hw10ex6 import Fish
+from hw10ex6 import Mammal
 
 
 class AnimalFabric():
@@ -29,6 +29,12 @@ class AnimalFabric():
 
 
 if __name__ == '__main__':
-    animal1 = AnimalFabric('Bird', 'Ласточка', 20)
-    bird1 = animal1.creating_animal()
-    print(bird1.unique())
+    animal1 = AnimalFabric('Bird', 'Ласточка', 20).creating_animal()
+    animal2 = AnimalFabric('Fish', 'Окунь', 40).creating_animal()
+    animal3 = AnimalFabric('Mammal', 'Лиса', 30).creating_animal()
+
+    print(animal1.unique())
+    print(animal2.unique())
+    print(animal3.unique())
+
+    
