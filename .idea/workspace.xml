@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added HW12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW12/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW12/hw1.py" afterDir="false" />
+    <list default="true" id="3cc285d9-11c1-440e-9913-b484b4a15365" name="Changes" comment="Added comments to HW12">
+      <change afterPath="$PROJECT_DIR$/HW12/descriptors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW12/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW12/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -400,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690401177529</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added comments to HW12">
+      <option name="closed" value="true" />
+      <created>1690403734579</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1690403734579</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Critical changes in HW2" />
     <MESSAGE value="Added Lesson3 code" />
     <MESSAGE value="Added Seminar3 code" />
     <MESSAGE value="Added HW3 part of code" />
@@ -441,6 +448,7 @@
     <MESSAGE value="Added HW11" />
     <MESSAGE value="Added Seminar12" />
     <MESSAGE value="Added HW12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW12" />
+    <MESSAGE value="Added comments to HW12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments to HW12" />
   </component>
 </project>
