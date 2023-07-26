@@ -7,11 +7,12 @@
 тестов (от 0 до 100).
 - Также экземпляр должен сообщать средний балл по тестам для каждого
 предмета и по оценкам всех предметов вместе взятых."""
+
 import csv
 
 
 class WordsCapitalize:
-    """Проверка слова на наличие только букв и первую заглавную букву"""
+    """Дескриптор для проверки слова на наличие только букв и первую заглавную букву"""
 
     def __set_name__(self, owner, name):
         self.param_name = '_' + name
@@ -23,11 +24,13 @@ class WordsCapitalize:
         self.validate(value)
         setattr(instance, self.param_name, value)
 
-    def validate(self, value):
+    @staticmethod
+    def validate(value):
+        """Валидатор, проверяющий слово на наличие только букв и первую заглавную букву"""
         if not value.isalpha():
-            raise TypeError(f'{self.param_name[2:]} должно состоять только из букв!')
-        if not value[0].isupper():
-            raise ValueError(f'В {self.param_name[2:]} первая буква должна быть большой!')
+            raise TypeError(f'Параметры ФИО должны состоять только из букв!')
+        if not value.istitle():
+            raise ValueError(f'В параметрах ФИО первая буква должна быть большой!')
 
 
 class NumberRange:
@@ -48,6 +51,7 @@ class NumberRange:
         setattr(instance, self.param_name, value)
 
     def validate(self, value):
+        """Валидатор, проверяющий вхождение числа в диапазон"""
         if not isinstance(value, int):
             raise TypeError(f'Значение {value} должно быть целым числом')
         if self._min_num is not None and value < self._min_num or self._max_num is not None and value > self._max_num:
@@ -70,6 +74,9 @@ class Student:
         self._patronymic = patronymic
         self._file_name = file_name
         self._subjects = self._subjects_from_scv()
+
+    def __repr__(self):
+        return f"Student('{self._last_name}', '{self._name}', '{self._patronymic}', '{self._file_name}')"
 
     @property
     def full_name(self):
@@ -107,13 +114,15 @@ class Student:
             print('Неверное количество аргументов!')
 
     def _subjects_from_scv(self):
+        """Метод, возвращающий словарь предметов из файла *.csv"""
         with open(self._file_name, encoding='utf-8') as file:
             csv_data = csv.DictReader(file, dialect='excel-tab', lineterminator='\n')
             subjects_list = [subject[0] for subject in csv_data.reader][1:]
             results = {subject: {'Оценки': [], 'Результаты тестов': []} for subject in subjects_list}
         return results
 
-    def average_test_results(self):
+    def average_grade_results(self):
+        """Метод, возвращающий словарь со средними оценками и средними результатами тестов для каждого предмета"""
         res = {}
         print('Средний балл по оценкам / тестам для каждого предмета:')
         for key, items in self._subjects.items():
@@ -122,6 +131,7 @@ class Student:
         return res
 
     def print_grade(self):
+        """Метод печати общей успеваемости студента"""
         print(f'Успеваемость студента {self.full_name}:')
         for item in self._subjects.items():
             print(item)
@@ -141,4 +151,4 @@ if __name__ == '__main__':
     student_first.subjects = 'Химия', [3, 4, 5, 3], 46
     student_first.subjects = 'Русский язык', 2, [71, 28]
     student_first.print_grade()
-    print(student_first.average_test_results())
+    print(student_first.average_grade_results())
