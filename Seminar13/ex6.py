@@ -16,7 +16,7 @@ class MyLevelEx(MyExClass):
 
     def __str__(self):
         return f'Уровень доступа пользователя {self.user_name} - {self.user_level} ' \
-               f'ниже уровня доступа администратора {self.admin_level}!\n Доступ запрещён!'
+               f'ниже уровня доступа администратора {self.admin_level}! Доступ запрещён!'
 
 
 class MyAccessEx(MyExClass):

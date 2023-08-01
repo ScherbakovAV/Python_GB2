@@ -22,12 +22,12 @@ class Rectangle:
 
     def __add__(self, other):
         perimeter = self.calc_perimeter() + other.calc_perimeter()
-        width = self.width + other._width
+        width = self.width + other.width
         height = perimeter / 2 - width
         return Rectangle(width, height)
 
     def __sub__(self, other):
-        width = abs(self.width - other._width)
+        width = abs(self.width - other.width)
         perimeter = abs(self.calc_perimeter() - other.calc_perimeter())
         height = perimeter / 2 - width
         return Rectangle(width, height)
@@ -46,7 +46,7 @@ class Rectangle:
 
 
 if __name__ == '__main__':
-    rect = Rectangle(5, 20)
+    rect = Rectangle(15, 20)
     square = Rectangle(8)
 
     print(rect + square)

@@ -11,8 +11,8 @@
 меньше, чем ваш уровень, вызывайте исключение уровня
 доступа."""
 
-from ex4 import UserData, data_from_json
-from ex6 import MyLevelEx, MyAccessEx
+from Seminar13.ex4 import UserData, data_from_json
+from Seminar13.ex6 import MyLevelEx, MyAccessEx
 
 
 class Project:
@@ -20,8 +20,9 @@ class Project:
         self._current_user = None
         self._users = set()
 
-    def load_json(self, path: str) -> None:
+    def load_json(self, path: str) -> set:
         self._users = data_from_json(path)
+        return self._users
 
     def enter(self, name: str, user_id: int) -> UserData:
         test_user = UserData(name, user_id, 0)
