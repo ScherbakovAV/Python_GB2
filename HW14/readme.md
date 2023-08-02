@@ -4,6 +4,6 @@
 * Возьмите 1-3 задания из тех, что были на прошлых семинарах или в домашних заданиях.
   * Напишите к ним тесты.
   * 2-5 тестов на задание в трёх вариантах:
-    * **doctest** >>> *HW14.ex2_1(2, 3).doctest.py*
-    * **unittest** >>> *HW14.ex2_1(2, 3).unittest.py*
-    * **pytest** >>> *HW14.ex2_1(2, 3).pytest.py*
+    * **doctest** >>> *HW14.ex2_1(2, 3).hw_doctest.py*
+    * **unittest** >>> *HW14.ex2_1(2, 3).hw_unittest.py*
+    * **pytest** >>> *HW14.ex2_1(2, 3).hw_pytest.py*
