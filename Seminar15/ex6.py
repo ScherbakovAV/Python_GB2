@@ -8,6 +8,8 @@
 - название родительского каталога.
 В процессе сбора сохраните данные в текстовый файл используя
 логирование"""
+# Не доделана, на ДЗ
+
 import os.path
 from os import listdir
 import argparse
@@ -26,12 +28,11 @@ def directory_info(file_p: str):
     for item in files_list:
         if os.path.isfile(item):
             temp = item.split('.')
-            obj = file(temp[0], temp[1], p[-1], f'\\'.join(p[:-1])) # !
+            obj = file(temp[0], temp[1], p[-1], f'\\'.join(p[:-1]))
         else:
 
-            obj = file(item, '', p[-1], f'{os.path.pathsep}'.join(p[:-1])) # !
+            obj = file(item, '', p[-1], f'{os.path.pathsep}'.join(p[:-1]))
         logger.info(obj)
 
 
 print(directory_info(r'E:\Geek Brains\Git\Python_education2\Seminar15'))
-# + консоль

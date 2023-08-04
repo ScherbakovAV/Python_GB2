@@ -15,5 +15,5 @@ def fibonacci_gen(max_count: int):
         yield fib
 
 
-for num in fibonacci_gen(30):
+for num in fibonacci_gen(10):
     print(num, end=' ')
